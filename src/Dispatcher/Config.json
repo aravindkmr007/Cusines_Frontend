@@ -1,0 +1,11 @@
+{
+    "environment": "dev",
+    "dev_host": "http://localhost:3011/api",
+    "qa_host": "https://ydpapi.yozy.in/api",
+    "endpoint": {
+        "cusines" : "/cusines",
+        "listofingredients" : "/listofingredients",
+        "listofregion" : "/listofregion"
+ 
+    }
+  }
